@@ -1,0 +1,32 @@
+name: EchoPractice
+version: 1.0
+description: shit plugin
+main: ac.echo.practice.EchoPractice
+author: Josh, Gian
+depend: [EchoCore]
+loadbefore: [EchoCore]
+commands: 
+  duel:
+    description: duel command
+    aliases: [d]
+  accept:
+    description: accept command
+    aliases: [a]
+  kit:
+    description: kit command
+    aliases: [k]
+  hash:
+    description: hash command
+    aliases: [h]
+  queue:
+    description: queue command
+    aliases: [q]
+  party:
+    description: party command
+    aliases: [p]
+  inventory:
+    description: inventory command
+  drain:
+    description: drain command
+  spec:
+    description: spec command

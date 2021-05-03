@@ -1,0 +1,12 @@
+name: EchoCore
+version: 1.0
+description: shit plugin
+main: ac.echo.core.EchoCore
+author: Josh, Gian
+commands: 
+  edit:
+    description: edit command
+    aliases: [gmc,gamemode,gma,gm]
+  lobby:
+    description: lobby command
+    aliases: [lobby,hub]
